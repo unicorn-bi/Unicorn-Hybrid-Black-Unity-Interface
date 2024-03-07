@@ -6,7 +6,7 @@
 
 2. Proceed to download your Unicorn Unity package by pressing the button highlighted with yellow color in the above screenshot. 
 
-3. When the download is finished, press <img src="../img/Icon1.png" alt="drawing" width="15"/>. 
+3. When the download is finished, press <img src="../img/icon1.png" alt="drawing" width="15"/>. 
 
 4. Click the Open button, and you will find the latest version of our UnicornUnityInterface.<br/><br/>
 

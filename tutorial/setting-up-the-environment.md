@@ -12,7 +12,7 @@ Install Unity with unity hub, click **Installs**:
 We recommend using Unity ```2022.3.11f1```. 
 
 ### Create a new unity project
-1. In unity hub, select **Projects** and click <img src="../Img/Icon2.png" alt="drawing" width="100"/><br/>
+1. In unity hub, select **Projects** and click <img src="../Img/icon2.png" alt="drawing" width="100"/><br/>
 2. Select the dropdown button next to **NEW**. You should be able to view all installed unity versions. Select ```2022.3.11.f1```
 3. Keep the **default 3D template** for this project, **name** your project and specify the **project location**. Click on **Create**.
 
