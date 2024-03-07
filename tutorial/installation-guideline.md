@@ -1,7 +1,7 @@
 ## Installation guideline
 1. Start the software **Unicorn Suite Hybrid Black**, nevigate to the **DevTools** on the upper menu bar and select **Unicorn Unity**. You should see the following window:
 <p align="center">
-<img src="../Img/Image.png" alt="drawing" width="600"/><br/>
+<img src="../Img/image.png" alt="drawing" width="600"/><br/>
 </p>
 
 2. Proceed to download your Unicorn Unity package by pressing the button highlighted with yellow color in the above screenshot. 
