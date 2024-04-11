@@ -3,6 +3,7 @@
 ## Prequisite
 - Unity ```2022.3.11.f1```
 - ```UnicornUnityInterface.unitypackage``` imported in the project.
+- Finished tutorial: [Setting up the environment](/tutorial/setting-up-the-environment.md)
 
 ## Add BCISystem to the scene
 1. Navigate to ```Assets/g.tec/Unity Interface/Prefabs``` and drag the prefab **BCIsystem** to the **SampleScene**. 
@@ -109,4 +110,16 @@ The order of **Application Objects** is not important. However, for the sake of 
 
 Congratualation! You have completed the setup of your initial BCI application.
 
-Check out the next tutorial: [Instructions of the BCI game in runtime](/tutorial/BCIGameRuntime.md)
+## Build your first game
+Save your scenario with a name.
+
+On the upper toolbar, select `File`-> `Build Settings`.
+<p align="center">
+<img src="../Img/image27.png" alt="drawing" width="500"/><br/>
+</p>
+
+Add your scenario to the **Scene in Build**. Now, you can click **Build** on the botton right to build your game executable for later testing, or click **Build and Run** to start playing with the game.
+
+# What to do next?
+Check out the next tutorial: [How to play your custom BCI application?
+](/tutorial/BCIGameRuntime.md)

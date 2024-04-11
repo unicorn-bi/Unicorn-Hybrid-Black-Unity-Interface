@@ -1,6 +1,7 @@
 ## Setting up the Environment
 ### Prerequisites
 - UnicornUnityInterface unity package
+- Completed the procedure described in [Installation guideline](/tutorial/installation-guideline.md)
 
 ### Install Unity Editor
 Install Unity with unity hub, click **Installs**:
