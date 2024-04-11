@@ -7,5 +7,5 @@ Unity version: ```2022.3.11.f1```.
 ## Tutorials:
 - [Installation guideline](/tutorial/installation-guideline.md)
 - [Setting up the Environment](/tutorial/setting-up-the-environment.md)
-
+- [Documentations for each component in unity](/tutorial/documentationComponent.md)
 
