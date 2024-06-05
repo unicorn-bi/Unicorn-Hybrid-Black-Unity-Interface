@@ -1,9 +1,16 @@
 # Build your first BCI application
+Follow these steps to build your first BCI application.
 
 ## Prequisite
-- Unity ```2022.3.11.f1```
+- Unity ```2022.3.XX.XX```
 - ```UnicornUnityInterface.unitypackage``` imported in the project.
-- Finished tutorial: [Setting up the environment](/tutorial/setting-up-the-environment.md)
+- Finished tutorial: [Quick start guide](/tutorial/quick-start-guide.md)
+
+## Step 1: Create a New Scene
+1. Create a new scene (`File`-> `New Scene`).
+2. Save the scene as `MyFirstBCIApp.unity`.
+
+## Step 2: Add prefab "BCI Visual ERP 3D"
 
 ## Add BCISystem to the scene
 1. Navigate to ```Assets/g.tec/Unity Interface/Prefabs``` and drag the prefab **BCIsystem** to the **SampleScene**. 
@@ -121,5 +128,4 @@ On the upper toolbar, select `File`-> `Build Settings`.
 Add your scenario to the **Scene in Build**. Now, you can click **Build** on the botton right to build your game executable for later testing, or click **Build and Run** to start playing with the game.
 
 # What to do next?
-Check out the next tutorial: [How to play your custom BCI application?
-](/tutorial/BCIGameRuntime.md)
+Check out the next tutorial: [How to play your custom BCI application?](/tutorial/BCIGameRuntime.md)

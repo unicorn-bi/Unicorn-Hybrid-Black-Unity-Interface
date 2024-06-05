@@ -1,4 +1,11 @@
-## Installation guideline
+## Software requirement
+### Prerequisities
+Before you begin, ensure you have met the following requirements:
+- Unity version: ```2022.3.XX.XX```
+- Unicorn Hybrid Black
+- Development Environment: Windows 10 / 11 
+
+### Installation guideline
 1. Start the software **Unicorn Suite Hybrid Black**, nevigate to the **DevTools** on the upper menu bar and select **Unicorn Unity**. You should see the following window:
 <p align="center">
 <img src="../Img/image.png" alt="drawing" width="600"/><br/>
@@ -18,4 +25,4 @@ C:\Users\<username>\Documents\gtec\Unicorn Suite\Hybrid Black\Unicorn Unity Inte
 
 You are ready go to!
 
-Proceed to [Setting Up the Environment](/tutorial/setting-up-the-environment.md) to configure your unity for the first BCI game.
+Proceed to [Quick Start Guide](/tutorial/quick-start-guide.md) to configure your unity for the first BCI game.
