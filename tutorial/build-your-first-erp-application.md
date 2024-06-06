@@ -59,7 +59,7 @@ On the upper left corner of your game scene, you should see a dropdown menu for 
     <img src="../Img/continuetrainingUI.png" alt="drawing" width="600"/>
     </p>
 
-    1. On the left side, the colored circle UI indicates the classifier performance of your training session.
+    1. On the right side of the UI bar, the colored circle UI indicates the classifier performance of your training session.
         - Red: Very bad performance. It is recommended to re-do the training.
         - Yellow: Ok performance. The classifier will work in your game with slower response. It is also recommended to re-do the training. 
         - Green: Good performance. Your classifier is perfect. You may move on the your actual game.
