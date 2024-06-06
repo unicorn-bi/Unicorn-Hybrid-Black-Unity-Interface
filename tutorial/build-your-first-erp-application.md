@@ -68,7 +68,7 @@ On the upper left corner of your game scene, you should see a dropdown menu for 
         - Press **Retrain** to re-do the training session and obtain a better classifier.
         - Press **Disconnect** to terminate the connection with the unicorn device and end your game.
 
-- When you pressed the **Continue** button, the classifier will start outputing BCI command based on your ERP. At anytime, you can retrain your classifier or terminate the connection with the unicorn device.
+- When you pressed the **Continue** button, your BCI application should be working now. The classifier will start outputing BCI command based on your ERP. At anytime, you can retrain your classifier or terminate the connection with the unicorn device.
     <p align="center">
     <img src="../Img/endUI.png" alt="drawing" width="600"/>
     </p>
