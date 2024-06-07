@@ -26,5 +26,5 @@ Check out [Installation guideline](/tutorial/installation-guideline.md) to setup
 - [Quick Start Guide](/tutorial/quick-start-guide.md)
 - [Build your first real-time EEG recorder in Unity](/tutorial/Build-your-first-real-time-EEG-recorder-in-Unity.md)
 - [Build your first ERP-Based BCI application / game in Unity](/tutorial/build-your-first-erp-application.md)
-- [Documentations for each component in unity](/tutorial/documentationComponent.md)
+- [Documentations for each component in unity](/tutorial/Documentation.md)
 
