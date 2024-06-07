@@ -36,7 +36,7 @@ The diagram above illustrates the hierarchical structure of the BCI system. Here
                             -**ERP Feedback tag**: A game object with a defined feedback system for visualizing the BCI command in realtime.
                                 > Prefab Reference Location: `Assets\gtec\Unity Interface\Prefabs\Pipelines\ERP\ERPFeedbackTags`
                     - **ERP Paradigm UI**: A UI for controlling the start / stop of the ERPPipeline.
-                    > Prefab Reference Location: `Assets\gtec\Unity Interface\Prefabs\Pipelines\ERP\ERPTags`
+                        > Prefab Reference Location: `Assets\gtec\Unity Interface\Prefabs\Pipelines\ERP\ERPTags`
                 
 
         - **Device UI**: The user interface for interacting with the unicorn hybrid black device
