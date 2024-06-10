@@ -3,11 +3,11 @@ This section provides structural descriptions of the BCI system in unity. Each p
 
 ## BCI System Design Hierarchy
 
-
 ### Overview
 The BCI system is structured to provide a flexible and modular approach for integrating various brain-computer interaction components. The hierarchy is designed to accommodate a single device to configure and process multiple pipelines, enableing users to tailor the system to their specific needs. 
 
 ### Hierarchy Diagram
+
 <p align="center">
 <img src="../Img/BCIsystemDesign4.png" alt="drawing" width="800"/><br/>
 </p>
@@ -37,6 +37,15 @@ The diagram above illustrates the hierarchical structure of the BCI system. Here
                                 > Prefab Reference Location: `Assets\gtec\Unity Interface\Prefabs\Pipelines\ERP\ERPFeedbackTags`
                     - **ERP Paradigm UI**: A UI for controlling the start / stop of the ERPPipeline.
                         > Prefab Reference Location: `Assets\gtec\Unity Interface\Prefabs\Pipelines\ERP\ERPTags`
-                
-
         - **Device UI**: The user interface for interacting with the unicorn hybrid black device
+
+For each component in the BCI system, we have provided a prefab to facilitate the BCI integration with the game logic.
+
+## Prefabs
+This section provides detaied description of each prefab included in the BCI System Unity package. Each prefab is designed to facilitate various aspects of BCI integration and visualization in Unity projects. For each prefab, you will find:
+- A brief overview of its purpose and functions
+- Event callbacks and functions
+- Additional details and tips to help you get the most out of each prefab.
+
+### Prefab Descriptions
+- [Device.prefab](/tutorial/device.md)
