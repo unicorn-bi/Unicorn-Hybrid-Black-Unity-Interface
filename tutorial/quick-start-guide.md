@@ -1,4 +1,4 @@
-## Setting up the Environment
+## Quick Start Guide
 ### Prerequisites
 - UnicornUnityInterface unity package
 - Completed the procedure described in [Installation guideline](/tutorial/installation-guideline.md)
@@ -40,6 +40,9 @@ Import the package and wait for the process to complete.
 <img src="../Img/image5.png" alt="drawing" width="300"/><br/>
 </p>
 
-Your unity environment is ready for a BCI game now. 
+Your unity environment is ready for a BCI application now. 
 
-Check out the next tutorial: [Build you first BCI application](/tutorial/build-your-first-bci-application.md)
+Check out the tutorials below: 
+
+- [Build your first real-time EEG recorder in Unity](/tutorial/Build-your-first-real-time-EEG-recorder-in-Unity.md)
+- [Build your first ERP-Based BCI application / game in Unity](/tutorial/build-your-first-erp-application.md)
