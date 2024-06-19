@@ -47,5 +47,14 @@ This section provides detaied description of each prefab included in the BCI Sys
 - Event callbacks and functions
 - Additional details and tips to help you get the most out of each prefab.
 
-### Prefab Descriptions
-- [Device.prefab](/tutorial/device.md)
+### Essential Prefab Descriptions
+- [Device.prefab](/tutorial/device-prefab.md)
+- [EEGDataPipelines.prefab]()
+- [SignalQualityPipeline.prefab]()
+- [ERPPipeline.prefab]()
+- [ERPPipeline_UI.prefab]()
+- [ERPParadigm.prefab]()
+- [ERPParadigm_UI.prefab]()
+- [ERPFlashTag3D.prefab]()
+- [ERPFlashTag3DFeedback.prefab]()
+
