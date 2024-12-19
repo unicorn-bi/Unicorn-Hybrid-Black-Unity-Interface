@@ -84,15 +84,15 @@ It is possible to forwards the raw data or pre-processed EEG from the device to 
 
 Following a similiar approach as described in [Create your ownd custom behavior](#create-your-own-custom-behavior), add a new function to the `UnityEventReceive.cs`.
 ```Csharp
-public void OnDataAvailable(float[,] e)
-{
-    string channelDataString = string.Empty;
-    for (int i = 0; i < e.GetLength(1); i++)
-        channelDataString += string.Format("{0}: {1}, ", i + 1, e[0, i].ToString());
-    Debug.Log(channelDataString);
-}
+    public void OnDataAvailable(float[,] e)
+    {
+        string channelDataString = string.Empty;
+        for (int row = 0; row < e.GetLength(0); row++)
+            for (int col = 0; col < e.GetLength(1); col++)
+            channelDataString += string.Format("Frame:{0}, EEG Channel:{1}, Value:{2}, ", row + 1, col + 1, e[row, col].ToString());
+        Debug.Log(channelDataString);
+    }
 ```
-
 Attach your gameobject **UnityEventInspect** and the function `OnDataAvailable()` to the event callback **On EEG Data Available**.
 <p align="center">
     <img src="../Img/DataAvailableEventSS.png" alt="drawing" width="400"/>
